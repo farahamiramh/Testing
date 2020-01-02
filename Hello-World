@@ -1,0 +1,9 @@
+#This will print Hello World 
+
+print('Hello World')
+print('What is your name:')
+name=input()
+print('It is good to meet you, '+ name)
+print('What is your Age')
+age=input()
+print ('You will be '+str(int(age))+' in a year.')
